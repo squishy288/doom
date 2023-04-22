@@ -17,13 +17,13 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
 
 :root {
-	--transparencycolor:			200,0,20;						/* default:	0,0,0																								*/
+	--transparencycolor:			150,0,20;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
 	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--chatinputtransparency:		0.15;						/* default: 0.0					(additional darkness for chat input container)									*/
 	--memberlisttransparency:		0.15;						/* default: 0.0					(additional darkness for member list)											*/
-	--accentcolor:					222,0,52;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
+	--accentcolor:					200,0,52;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
@@ -48,7 +48,7 @@
 	--textbrighter: 				222,222,222;				/* default: 222,222,222			(text color for brighter texts)													*/
 	--textbright: 					200,200,200;				/* default: 200,200,200			(text color for bright texts)													*/
 	--textdark: 					160,160,160;				/* default: 160,160,160			(text color for dark texts)														*/
-	--textdarker: 					200,0,0;				/* default: 125,125,125			(text color for darker texts)													*/
+	--textdarker: 					175,0,0;				/* default: 125,125,125			(text color for darker texts)													*/
 	--textdarkest: 					150,0,0;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
 	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
